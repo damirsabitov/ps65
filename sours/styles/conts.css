@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Michroma&display=swap);
+
+
+
+body {
+    font-family: Michroma, serif;
+    background: linear-gradient(90deg, #0101a1 0%, #000000 100%);
+}
+
+p {
+    color: rgb(12, 238, 162);
+}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(154, 156, 152);
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.navbar-toggler {
+    background-color: rgb(84, 84, 84);
+}
+
+.sidebar {
+    color: aquamarine;
+    background: linear-gradient(270deg, #0101a1 0%, #000000 100%);
+}
+
+
+
+.slidetext,
+.footer-text {
+    color: aquamarine;
+    margin: auto auto;
+}
+
+footer,
+.btn-primary {
+    background: linear-gradient(270deg, #0101a1 0%, #000000 100%);
+}
+
+.media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.nav-map {
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1 {
+    text-align: center;
+    color: aquamarine;
+}
+.rounded-img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    padding: 0.6em;
+    margin-bottom: 1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+h2{
+    color: aquamarine;
+}
+
+.fry {
+    color: aquamarine;
+    text-decoration: none;
+}
